@@ -13,10 +13,10 @@ A terminal similiar to that of the terminal in Fallout 4 implemented in C and nc
 
 So far this project looks great in cool-retro-term among with many other terminals and the console:
 **Kitty**
-[Kitty Terminal](https://github.com/Rootyjr/RoboCo-term/images/roboco-kitty.png)
+[Kitty Terminal](https://github.com/Rootyjr/RoboCo-term/images/roboco-kitty.png "Kitty")
 **cool-retro-term**
-[Cool Retro Term Terminal](https://github.com/Rootyjr/RoboCo-term/images/roboco-crt.png)
+[Cool Retro Term Terminal](https://github.com/Rootyjr/RoboCo-term/images/roboco-crt.png "Cool Rtro Term")
 **bash console**
-[Bash Terminal](https://github.com/Rootyjr/RoboCo-term/images/roboco-console.png)
+[Bash Terminal](https://github.com/Rootyjr/RoboCo-term/images/roboco-console.png "Console")
 
 If you are interested in helping out, please take a look at the issues and solve some problems.
