@@ -11,12 +11,14 @@ A terminal similiar to that of the terminal in Fallout 4 implemented in C and nc
 | Font setting cmdline option | WIP           |
 | Return value for scripts    | WIP           |
 
+## Screenshots
 So far this project looks great in cool-retro-term among with many other terminals and the console:
 **Kitty**
-[Kitty Terminal](https://github.com/Rootyjr/RoboCo-term/images/roboco-kitty.png "Kitty")
+![Kitty Terminal](https://github.com/Rootyjr/RoboCo-term/images/roboco-kitty.png "Kitty")
 **cool-retro-term**
-[Cool Retro Term Terminal](https://github.com/Rootyjr/RoboCo-term/images/roboco-crt.png "Cool Rtro Term")
+![Cool Retro Term Terminal](https://github.com/Rootyjr/RoboCo-term/images/roboco-crt.png "Cool Retro Term")
 **bash console**
-[Bash Terminal](https://github.com/Rootyjr/RoboCo-term/images/roboco-console.png "Console")
+![Bash Terminal](https://github.com/Rootyjr/RoboCo-term/images/roboco-console.png "Console")
 
+## Contributing
 If you are interested in helping out, please take a look at the issues and solve some problems.
