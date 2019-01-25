@@ -1,4 +1,4 @@
-**Note: This is a relatively new project so with that in mind the code I have uploaded does not yet meet all the standards specified.**
+**Note: This is a relatively new project so with that in mind, the code I have uploaded does not yet meet all the standards specified.**
 
 **Guidelines**
 ---
