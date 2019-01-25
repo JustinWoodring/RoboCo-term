@@ -9,4 +9,4 @@
 
 If you feel you can comply with these simple guidelines, I would love to welcome you aboard.
 
-And if you are new to programming, check out our list of (https://github.com/Rootyjr/RoboCo-term/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)[newbie issues]
+And if you are new to programming, check out our list of [https://github.com/Rootyjr/RoboCo-term/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22]("newbie issues")
