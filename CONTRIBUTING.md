@@ -7,6 +7,6 @@
 - Any code updates should add comments to make others aware of how this program operates.
 - When you make a pull request please provide some snippet of what the change you made was.
 
-If you feel you can comply with these simple guidelines, I would love to welcome you aboard.
+If you feel you can comply with these simple guidelines, we would love to welcome you aboard.
 
 And if you are new to programming, check out our list of [newbie issues](https://github.com/Rootyjr/RoboCo-term/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
