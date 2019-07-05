@@ -1,9 +1,6 @@
 # RoboCo-term
 A terminal similiar to that of the terminal in Fallout 4 implemented in C and ncurses. 
 
-Freenode: [#RoboCo-term](http://webchat.freenode.net/?randomnick=1&channels=%23roboco-term&uio=MTY9dHJ1ZSY5PXRydWUmMTE9MTEza9)
-
-
 ## Current Features
 | Feature                     | Progress      |
 |-----------------------------|:-------------:|
